@@ -1,0 +1,23 @@
+{
+    "debug": false,
+    "data": {
+        "solver_api_key": "",
+        "hcaptcha_api_key": "49292cbebc137481abb2ccf969ca0f13366ddae660ec693fc102e518e966eb05"
+    },
+    "mail": {
+        "source": "api",
+        "api": {
+            "api_key": "",
+            "base_url": "https://tuciuriusilent.xyz/api",
+            "domain": "tuciuriusilent.xyz"
+        },
+        "local": {
+            "file": "input/emails.txt",
+            "imap_host": "imap.firstmail.ltd",
+            "imap_port": 993
+        }
+    },
+    "verification": {
+        "enabled": false
+    }
+}
